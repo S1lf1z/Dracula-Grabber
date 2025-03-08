@@ -1,5 +1,5 @@
 # Dracula-Stealer
-Stealer Hecho en Js &amp; Py
+Stealer Hecho en Py
 
 # Logger
 psutil
