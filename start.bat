@@ -1,1 +1,1 @@
-python dracula-stealer.py
+python Dracula-Stealer.py
